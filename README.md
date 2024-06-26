@@ -5,10 +5,7 @@ To understand, analyze, and represent the dataset to predict the price of a car 
 
 # Steps
 1. Loading the Dataset -
-The required dataset is uploaded from Kaggle.
-
-
-Link - https://www.kaggle.com/datasets/muaaz9922/car-prices
+The required dataset is uploaded from Kaggle.    Link - https://www.kaggle.com/datasets/muaaz9922/car-prices
 
 
 3. Basic Understanding of the Data - It's crucial to understand the basic information regarding the dataset to ensure proper training of the model. This involves examining the features, the target variable, and the data types.
