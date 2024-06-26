@@ -6,6 +6,14 @@ To understand, analyze, and represent the dataset to predict the price of a car 
 # Steps
 1. Loading the Dataset -
 The required dataset is uploaded from Kaggle.
+
+
+
+
+
+
+
+
 Link - https://www.kaggle.com/datasets/muaaz9922/car-prices
 
 
