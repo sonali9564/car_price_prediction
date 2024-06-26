@@ -11,7 +11,6 @@ The required dataset is uploaded from Kaggle.
 
 
 
-  
 Link - https://www.kaggle.com/datasets/muaaz9922/car-prices
 
 
