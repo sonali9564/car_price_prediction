@@ -5,16 +5,11 @@ To understand, analyze, and represent the dataset to predict the price of a car 
 
 # Steps
 1. Loading the Dataset -
-The required dataset is uploaded from Kaggle.
-
-
-
-
-
+The required dataset is uploaded from Kaggle.  
 Link - https://www.kaggle.com/datasets/muaaz9922/car-prices
 
 
-3. Basic Understanding of the Data - It's crucial to understand the basic information regarding the dataset to ensure proper training of the model. This involves examining the features, the target variable, and the data types.
+2. Basic Understanding of the Data - It's crucial to understand the basic information regarding the dataset to ensure proper training of the model. This involves examining the features, the target variable, and the data types.
 
 4. Data Cleaning - This step involves filling in missing values, dropping unnecessary columns, and ensuring consistency across all attributes. Proper data cleaning is essential for the accuracy of the model.
 
